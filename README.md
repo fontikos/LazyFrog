@@ -2,9 +2,9 @@
 ### A Digitally-Controlled Analog Tremolo Effect 
 
 ####Modes 
-- Mode 0 - 50/50    - 50% HIGH 50% LOW, POT1 controls the speed, POT2 applies fine adjustments on the speed
-- Mode 1 - PWM      - Pulse Width Modulator, POT1 controls the duration of HIGH, POT2 controls the duration of LOW
-- Mode 2 - Pattern  - 8-bit Pattern, POT1 controls the duration of each beat, POT2 defines an 8-bit HIGH-LOW pattern (e.g. HLLHHHLL)
+- 50/50: 50% HIGH 50% LOW, POT1 controls the speed, POT2 applies fine adjustments on the speed
+- PWM: Pulse Width Modulator, POT1 controls the duration of HIGH, POT2 controls the duration of LOW
+- Pattern: 8-bit Pattern, POT1 controls the duration of each beat, POT2 defines an 8-bit HIGH-LOW pattern (e.g. HLLHHHLL)
 
 ####More Details
 eis.bristol.ac.uk/~xf14883/index.html/?lazyfrog
